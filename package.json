@@ -16,7 +16,7 @@
     "through2": "^2.0.1"
   },
   "devDependencies": {
-    "jasmine": "^2.4.1",
+    "jasmine": "^5.9.0",
     "rimraf": "^2.5.2",
     "node-uuid": "^1.4.7",
     "magicbook": "0.1.12"
