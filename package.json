@@ -17,7 +17,7 @@
   },
   "devDependencies": {
     "jasmine": "^2.4.1",
-    "rimraf": "^2.5.2",
+    "rimraf": "^6.0.1",
     "node-uuid": "^1.4.7",
     "magicbook": "0.1.12"
   }
